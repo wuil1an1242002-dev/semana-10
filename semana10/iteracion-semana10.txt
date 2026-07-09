@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1. Permitir que un ciudadano registre una incidencia.
+2. Enviar una alerta en Telegram cuando se registre un nuevo reporte.
+
+¿Por qué son las más importantes?
+
+Porque primero se necesita registrar la información y luego notificar al equipo para que pueda iniciar el seguimiento de manera oportuna.
+
+Definición de "terminado":
+
+- La funcionalidad funciona correctamente.
+- Fue probada y no presenta errores importantes.
+- Quedó registrada en Git mediante un commit.
